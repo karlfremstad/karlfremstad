@@ -1,1 +1,1 @@
-Software Developer at Gjensidige. Preferred Tech Stack: (Java || Kotlin) && React TypeScript
+Software Developer at Gjensidige | Prefer (Java || Kotlin) && React TypeScript
