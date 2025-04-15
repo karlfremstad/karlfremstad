@@ -1,1 +1,1 @@
-Software Developer at Gjensidige | Prefer (Java || Kotlin) && React TypeScript
+Software Engineer at Gjensidige | Prefer (Java || Kotlin) && React TypeScript
